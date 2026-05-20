@@ -83,7 +83,7 @@ proxy-providers:
   # 优质订阅源 - 优质节点集合，使用时请修改
   机场A: {<<: *BaseProvider, url: 'https://shenye1863.pages.dev/sub?token=a1f3d5fe5febca63c784b21ca1213691', override: {additional-prefix: '[优] '}}
   # 备用订阅源 - 次优节点集合，使用时请修改
-  机场B: {<<: *BaseProvider, url: 'https://node.bytedancesub.shop/assets/config/dG9rZW49ZDlhODY5YjU3MTM4MjE1ODZiODg5NmY3NmQ2NjIzOTc', override: {additional-prefix: '[次] '}}
+  机场B: {<<: *BaseProvider, url: '', override: {additional-prefix: '[次] '}}
   # 备用订阅源 - 次优节点集合，使用时请修改
   机场C: {<<: *BaseProvider, url: 'https://login.yfjc.xyz/api/v1/client/subscribe?token=5c7a496ae04327638984860b34b0ce02', override: {additional-prefix: '[备] '}}
   # 落地订阅源 - 落地服务连接，使用时请修改
