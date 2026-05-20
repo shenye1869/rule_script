@@ -85,3 +85,9 @@ payload:
 # 包子漫画
 - DOMAIN-SUFFIX,baozimh.com
 - DOMAIN-SUFFIX,baozimhapp.com
+
+# javdb
+- DOMAIN-KEYWORD,javdb
+
+# 晴天小说
+- DOMAIN-KEYWORD,gyks
