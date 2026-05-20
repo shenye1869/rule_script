@@ -1,0 +1,27 @@
+payload:
+
+# 常见博客平台
+- DOMAIN-SUFFIX,blogspot.com
+- DOMAIN-SUFFIX,medium.com
+- DOMAIN-SUFFIX,substack.com
+- DOMAIN-SUFFIX,ghost.io
+- DOMAIN-SUFFIX,notion.site
+- DOMAIN-SUFFIX,wordpress.com
+- DOMAIN-SUFFIX,hashnode.dev
+
+# 技术/开发类博客
+- DOMAIN-SUFFIX,dev.到
+- DOMAIN-SUFFIX,dzone.com
+- DOMAIN-SUFFIX,readthedocs.io
+- DOMAIN-SUFFIX,gitbook.io
+
+# 独立博客常见域名特征
+- DOMAIN-KEYWORD,blog
+- DOMAIN-KEYWORD,blogger
+- DOMAIN-KEYWORD,medium
+- DOMAIN-KEYWORD,post
+- DOMAIN-KEYWORD,article
+
+# RSS / 内容聚合（部分博客源）
+- DOMAIN-SUFFIX,feedburner.com
+- DOMAIN-SUFFIX,substackcdn.com
