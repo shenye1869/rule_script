@@ -1,0 +1,86 @@
+payload:
+
+  # 拷贝漫画
+  - DOMAIN-SUFFIX,mangacopy.com
+  - DOMAIN-SUFFIX,copy2000.site
+  - DOMAIN-SUFFIX,2025copy.com
+
+  # 热辣漫画
+  - DOMAIN-SUFFIX,hotmangasd.com
+  - DOMAIN-SUFFIX,hotmangasf.com
+  - DOMAIN-SUFFIX,hotmangasg.com
+  - DOMAIN-SUFFIX,2024manga.com
+  - DOMAIN-SUFFIX,fgjfghkk.club
+  - DOMAIN-SUFFIX,elfgjfghkk.club
+  - DOMAIN-SUFFIX,fgjfghkkcenter.club
+  - DOMAIN-SUFFIX,manga2024.com
+
+  # komiic漫画
+  - DOMAIN-SUFFIX,komiic.com
+
+  # mycomic
+  - DOMAIN-SUFFIX,mycomic.com
+
+  # 最次元
+  - DOMAIN-SUFFIX,zcymh.com
+  - DOMAIN-SUFFIX,yemancomic.com
+  - DOMAIN-SUFFIX,source-ex.com
+  - DOMAIN-SUFFIX,yydskxs.com
+  - DOMAIN-SUFFIX,yydsmh.com
+  - DOMAIN-SUFFIX,mhkami.com
+
+  # 皮皮漫画
+  - DOMAIN-SUFFIX,ququmh.com
+  - DOMAIN-SUFFIX,ppmh.net
+  - DOMAIN-SUFFIX,pipimh123.com
+  - DOMAIN-SUFFIX,pipiman.com
+  - DOMAIN-SUFFIX,pipimanhua.net
+
+  # 笔趣阁
+  - DOMAIN-SUFFIX,cmh5.com
+  - DOMAIN-SUFFIX,bq8.org
+  - DOMAIN-SUFFIX,manhw.com
+  - DOMAIN-SUFFIX,gmh8.com
+  - DOMAIN-SUFFIX,bq888.net
+  - DOMAIN-SUFFIX,biqug.org
+
+  # 漫画屋
+  - DOMAIN-SUFFIX,mhua5.com
+  - DOMAIN-SUFFIX,mhw.plus
+  - DOMAIN-SUFFIX,mhw1.com
+  - DOMAIN-SUFFIX,mhw2.com
+  - DOMAIN-SUFFIX,biqumh.com
+  - DOMAIN-SUFFIX,toh123.com
+  - DOMAIN-SUFFIX,umh5.com
+
+  # 漫蛙
+  - DOMAIN-SUFFIX,manwa.me
+  - DOMAIN-SUFFIX,manwafei.xyz
+
+  # 如漫画
+  - DOMAIN-SUFFIX,rumanhua2.com
+  - DOMAIN-SUFFIX,rumanhua.org
+
+  # 读漫屋
+  - DOMAIN-SUFFIX,dumanwu1.com
+  - DOMAIN-SUFFIX,dumanwu.org
+
+  # G站漫画
+  - DOMAIN-SUFFIX,godamh.com
+  - DOMAIN-SUFFIX,baozimh.org
+  - DOMAIN-SUFFIX,g-mh.org
+  - DOMAIN-SUFFIX,bzmh.org
+
+  # 再漫画
+  - DOMAIN-SUFFIX,zaimanhua.com
+
+  # 漫画柜
+  - DOMAIN-SUFFIX,manhuagui.com
+
+  # zero搬运
+  - DOMAIN-SUFFIX,zerobywai.com
+  - DOMAIN-SUFFIX,zerobywav.com
+
+  # 包子漫画
+  - DOMAIN-SUFFIX,baozimh.com
+  - DOMAIN-SUFFIX,baozimhapp.com
