@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-20 02:39:02
+# UPDATED: 2026-05-30 02:54:16
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34017
+# DOMAIN-SUFFIX: 34068
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34294
+# TOTAL: 34345
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -1436,6 +1436,7 @@ login.microsoftonline.com
 +.alexa.com
 +.alexanderlondoncollege.ac.uk
 +.alexanderstreet.com
++.alfa.me
 +.alfabank.oavdo.amc
 +.alfabank.ru
 +.alfabank.st
@@ -7566,7 +7567,6 @@ login.microsoftonline.com
 +.douzinnsi-eromannga.com
 +.dovercollege.ac.uk
 +.dovertechnicalcollege.ac.uk
-+.dowjones.io
 +.dowjoneson.com
 +.download.com
 +.download.qatp1.net
@@ -7882,6 +7882,7 @@ login.microsoftonline.com
 +.e-tugra.com
 +.e3an.ac.uk
 +.e5.sk
++.e53w.com
 +.ea-anz-press.com
 +.ea.com
 +.eaaccess.com
@@ -8295,6 +8296,7 @@ login.microsoftonline.com
 +.electronicsignature.ru
 +.electronjs.org
 +.element.io
++.elementary.io
 +.elephantlist.com
 +.elephantsdream.org
 +.elephanttube.com
@@ -8844,7 +8846,6 @@ login.microsoftonline.com
 +.f6.ru
 +.f6.security
 +.f6988.com
-+.f95zone.to
 +.fa.gov.tw
 +.faacebok.com
 +.faacebook.com
@@ -10619,6 +10620,7 @@ login.microsoftonline.com
 +.gnailapp.sbs
 +.gnatwork.ac.uk
 +.gnom-cham.com
++.gnome.org
 +.gnu.org
 +.gnzi.xyz
 +.gnzi1.top
@@ -11510,6 +11512,7 @@ login.microsoftonline.com
 +.helf.ac.uk
 +.hellofuture.ac.uk
 +.hellokittybeats.com
++.hellomoto.com
 +.hellosmartbook.com
 +.hellporno.com
 +.hellven.net
@@ -12060,7 +12063,6 @@ login.microsoftonline.com
 +.hpcodewarsbcn.com
 +.hpcomputers.com
 +.hpcomputerservices.com
-+.hpconnected.com
 +.hpconnected.net
 +.hpconnected.org
 +.hpconnected.us
@@ -14166,6 +14168,7 @@ login.microsoftonline.com
 +.kclwave.ac.uk
 +.kcollege.ac.uk
 +.kcqsw-na.sbs
++.kde.org
 +.kdfuli.com
 +.kdy202312.shop
 +.ke-westyorkshire.ac.uk
@@ -15167,6 +15170,7 @@ login.microsoftonline.com
 +.lww-cetl.ac.uk
 +.lwwcn.buzz
 +.lwwcn.xyz
++.lxqt-project.org
 +.lxxlxx.com
 +.ly.gov.tw
 +.lyellcentre.ac.uk
@@ -15576,6 +15580,7 @@ login.microsoftonline.com
 +.mat6tube.com
 +.match.ac.uk
 +.matchmover.com
++.mate-desktop.org
 +.materials.ac.uk
 +.materialsnexus.ac.uk
 +.mathcentre.ac.uk
@@ -16002,6 +16007,7 @@ login.microsoftonline.com
 +.midentsolutions.com
 +.midfife.ac.uk
 +.midhurst.ac.uk
++.midjourney.com
 +.midkent.ac.uk
 +.midlands3cities.ac.uk
 +.midlands4cities.ac.uk
@@ -16614,7 +16620,31 @@ login.microsoftonline.com
 +.motherwell.ac.uk
 +.motiongraphicsandmore.com
 +.motionpictureser.com
++.moto.com
 +.motolia.com
++.motorola.ca
++.motorola.cl
++.motorola.co
++.motorola.co.id
++.motorola.co.jp
++.motorola.co.th
++.motorola.co.uk
++.motorola.com
++.motorola.com.au
++.motorola.com.co
++.motorola.com.pe
++.motorola.com.pr
++.motorola.de
++.motorola.es
++.motorola.fr
++.motorola.gr
++.motorola.in
++.motorola.it
++.motorola.net
++.motorola.vn
++.motorolacareers.com
++.motorolanews.com
++.motorolasolutions.com
 +.motorshowblog.com
 +.mottainai.info
 +.moulton.ac.uk
@@ -16650,6 +16680,7 @@ login.microsoftonline.com
 +.mozilla.com
 +.mozilla.community
 +.mozilla.net
++.mozillafoundation.org
 +.mp.world
 +.mpa-mpp.ac.uk
 +.mpa-uk.ac.uk
@@ -17007,6 +17038,7 @@ login.microsoftonline.com
 +.myyoungmomisnude.com
 +.myyoungwifeisnude.com
 +.mzed.com
++.mzl.la
 +.n15zev3w.shop
 +.n26.com
 +.n3ro.lol
@@ -19280,6 +19312,7 @@ login.microsoftonline.com
 +.plansondemand.com
 +.plant-phenomics.ac.uk
 +.plantsvszombies2.com
++.plasma-mobile.org
 +.plasticlabs.com
 +.plastics-cadcam.com
 +.platiecom.ru
@@ -20101,6 +20134,7 @@ login.microsoftonline.com
 +.qbmengmei6.mom
 +.qbsc.ac.uk
 +.qckprn.com
++.qcmod.xyz
 +.qcomgeo2.com
 +.qctconnect.com
 +.qdiehzz7.me
@@ -23150,6 +23184,7 @@ login.microsoftonline.com
 +.syntheticbiology.ac.uk
 +.sysinternals.com
 +.sysmic.ac.uk
++.system76.com
 +.systemicrisk.ac.uk
 +.syzbj36.xyz
 +.szabadeuropa.hu
@@ -23236,6 +23271,7 @@ login.microsoftonline.com
 +.taose.in
 +.tapb.ac.uk
 +.tapestry.ac.uk
++.tapnow.ai
 +.taptotokyo.com
 +.taqunuhai.vip
 +.taradinhos.com
@@ -23296,6 +23332,8 @@ login.microsoftonline.com
 +.teachmyass.com
 +.teamneedforspeed.com
 +.teamskeet.com
++.teamspeak-services.com
++.teamspeak.com
 +.teamviewer.us
 +.teamwork.ac.uk
 +.tean.ac.uk
@@ -26361,6 +26399,7 @@ login.microsoftonline.com
 +.xenoblade.com
 +.xeon.com
 +.xfantazy.com
++.xfce.org
 +.xfemaledom.com
 +.xfockers.com
 +.xfreehd.com
@@ -26395,6 +26434,7 @@ login.microsoftonline.com
 +.xiaoshuobb.life
 +.xiaoyaoge.xyz
 +.xie56.xyz
++.xin21.xyz
 +.xinaia-av.buzz
 +.xindelu.com
 +.xinfhw.com
@@ -27644,6 +27684,7 @@ login.microsoftonline.com
 +.228.net.tw
 +.233abc.com
 +.233v2.com
++.24hbook.com
 +.24hrs.ca
 +.24smile.org
 +.25u.com
@@ -29075,6 +29116,7 @@ login.microsoftonline.com
 +.doujincafe.com
 +.dowei.org
 +.dowjones.com
++.dowjones.io
 +.download.dappcdn.com
 +.dphk.org
 +.dpool.top
@@ -29323,6 +29365,7 @@ login.microsoftonline.com
 +.f-droid.org
 +.f2pool.com
 +.f8.com
++.f95zone.to
 +.fabric.io
 +.faceless.me
 +.facesofnyfw.com
@@ -29657,6 +29700,7 @@ login.microsoftonline.com
 +.fzlm.net
 +.g-area.org
 +.g-queen.com
++.g.ai
 +.g.co
 +.g.kfd.me
 +.g0v.social
@@ -30762,6 +30806,7 @@ login.microsoftonline.com
 +.lematin.ch
 +.lemonde.fr
 +.lenwhite.com
++.leonardo.ai
 +.lerosua.org
 +.lesoir.be
 +.lester850.info
@@ -30961,6 +31006,7 @@ login.microsoftonline.com
 +.marxist.com
 +.marxist.net
 +.marxists.org
++.mas.to
 +.mash.to
 +.mashable.com
 +.maskedip.com
@@ -31189,6 +31235,7 @@ login.microsoftonline.com
 +.movements.org
 +.moves-export.com
 +.moviefap.com
++.mozilla.ai
 +.mozilla.org
 +.moztw.org
 +.mp3buscador.com
@@ -31343,6 +31390,7 @@ login.microsoftonline.com
 +.ned.org
 +.nekoslovakia.net
 +.neo-miracle.com
++.neodb.social
 +.neoforged.net
 +.neowin.net
 +.nephobox.com
@@ -32089,6 +32137,7 @@ login.microsoftonline.com
 +.ranxiang.com
 +.ranyunfei.com
 +.rapbull.net
++.raphael.app
 +.rapidgator.net
 +.rapidmoviez.com
 +.rapidvpn.com
@@ -32216,6 +32265,7 @@ login.microsoftonline.com
 +.rtycminnesota.org
 +.ruanyifeng.com
 +.rukor.org
++.rule34.us
 +.rule34.xxx
 +.rule34video.com
 +.rumble.com
@@ -32547,6 +32597,7 @@ login.microsoftonline.com
 +.sosad.fun
 +.sosreader.com
 +.sostibet.org
++.sotwe.com
 +.sou-tong.org
 +.soubory.com
 +.soul-plus.net
