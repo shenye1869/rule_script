@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-30 02:54:16
-# DOMAIN: 124
+# UPDATED: 2026-06-12 03:03:09
+# DOMAIN: 123
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34068
+# DOMAIN-SUFFIX: 34337
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34345
+# TOTAL: 34613
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -60,7 +60,6 @@ ingest.apple-studies.com
 lgelectronics.122.2o7.net
 linkedin.sc.omtrdc.net
 live-patreon-marketing.pantheonsite.io
-mdn.mozillademos.org
 medone-education.thieme.com
 muse.jhu.edu
 nationalaustraliaban.tt.omtrdc.net
@@ -266,6 +265,7 @@ login.microsoftonline.com
 +.18tube.xxx
 +.18ww.life
 +.18yiren.tv
++.1917live.red
 +.191porn.com
 +.1992qq.xyz
 +.1994group.ac.uk
@@ -300,6 +300,7 @@ login.microsoftonline.com
 +.1passwordusercontent.com
 +.1passwordusercontent.eu
 +.1pornlist.com
++.1prime.ru
 +.1thek.com
 +.1to1computing.com.au
 +.1to1conference.com.au
@@ -849,6 +850,7 @@ login.microsoftonline.com
 +.actofunion.ac.uk
 +.actris.ac.uk
 +.actual.ac.uk
++.actualidad-rt.com
 +.acu.ac.uk
 +.ad69.com
 +.ada.ac.uk
@@ -1173,6 +1175,7 @@ login.microsoftonline.com
 +.ahentaitv.com
 +.ahessc.ac.uk
 +.ahgtm.ac.uk
++.ahilesva.info
 +.ahlxs-me.buzz
 +.ahlxsdh.sbs
 +.ahmia.fi
@@ -1518,7 +1521,10 @@ login.microsoftonline.com
 +.alliancembs.ac.uk
 +.alliancesages.com
 +.allinternal.com
++.allizom.net
++.allizom.org
 +.alljapanesepass.com
++.allkeyshop.com
 +.allmomsex.com
 +.allnations.ac.uk
 +.allover30.com
@@ -1744,6 +1750,7 @@ login.microsoftonline.com
 +.amcnetworks.com
 +.amcplus.com
 +.amdfanstore.com
++.amdgaming.com
 +.amdigital.co.uk
 +.amebame.com
 +.amebaownd.com
@@ -2320,6 +2327,7 @@ login.microsoftonline.com
 +.aquinas.ac.uk
 +.ar.hao123.com
 +.arabianchicks.com
++.arabicrt.ru
 +.arabidopsis.org
 +.arabnek.com
 +.arabxn.com
@@ -2349,6 +2357,7 @@ login.microsoftonline.com
 +.arcom.ac.uk
 +.arcraiders.com
 +.arctic.ac.uk
++.arctic.ru
 +.arden.ac.uk
 +.ardencampus.ac.uk
 +.ardencollege.ac.uk
@@ -2390,6 +2399,9 @@ login.microsoftonline.com
 +.artcamjewelsmith.com
 +.artcampro.com
 +.artdesignhull.ac.uk
++.artel.watch
++.arteldoc.com
++.arteldoc.tv
 +.artifact.ac.uk
 +.artixlinux.org
 +.artnudegalleries.com
@@ -2448,6 +2460,7 @@ login.microsoftonline.com
 +.asianfreeporn.net
 +.asiangfvideos.com
 +.asiangirlsnextdoor.com
++.asiangooglenetwork.com
 +.asianphd.com
 +.asianporn.rest
 +.asianporn.sexy
@@ -2789,6 +2802,7 @@ login.microsoftonline.com
 +.avdwang.xyz
 +.avelip.com
 +.aventertainments.com
++.avermedia.com
 +.aversbank.ru
 +.avfox.cc
 +.avgigi.com
@@ -2948,6 +2962,7 @@ login.microsoftonline.com
 +.b-ok.global
 +.b-ok.org
 +.b2c-digest.ru
++.b37mrtl.ru
 +.b3boos.com
 +.b6b33.com
 +.b6fc.ac.uk
@@ -3017,6 +3032,8 @@ login.microsoftonline.com
 +.ballbustingtube.com
 +.balletwest.ac.uk
 +.baltimorebmw.com
++.baltnews.com
++.baltnews.lt
 +.bam.ac.uk
 +.bams.ac.uk
 +.bamtoki.com
@@ -3040,7 +3057,6 @@ login.microsoftonline.com
 +.bangkokstreetwhores.com
 +.bangor-university-london.ac.uk
 +.bangor.ac.uk
-+.bangumi.tv
 +.bangyourwife.com
 +.bank-arzamas.ru
 +.bank-credit-suisse-moscow.ru
@@ -3055,6 +3071,7 @@ login.microsoftonline.com
 +.bannedbook.net
 +.bannedbook.org
 +.baraero.com
++.baranky.com
 +.barefootnetworks.com
 +.barelist.com
 +.bareporno.com
@@ -3629,12 +3646,12 @@ login.microsoftonline.com
 +.beyondcore.com
 +.beyondtext.ac.uk
 +.bfa.ru
++.bfads.net
 +.bffshd.com
 +.bfmat.ac.uk
 +.bftv.ac.uk
 +.bgc.ac.uk
 +.bgicdn.com
-+.bgm.tv
 +.bgov.com
 +.bgr.in
 +.bgs.ac.uk
@@ -4504,7 +4521,9 @@ login.microsoftonline.com
 +.boobsrealm.com
 +.boodigo.com
 +.boodigogo.com
++.book-catalog.ru
 +.book18.org
++.book1917.live
 +.book4you.org
 +.bookbrainz.org
 +.bookclubcorner.com
@@ -4857,6 +4876,7 @@ login.microsoftonline.com
 +.buddymedia.com
 +.bufdg.ac.uk
 +.bufvc.ac.uk
++.bugsnag.com
 +.bugzilla.org
 +.buhidoh.net
 +.bui.ac.uk
@@ -4964,6 +4984,7 @@ login.microsoftonline.com
 +.buypass.com
 +.buypass.no
 +.buypass.se
++.buyservices.com
 +.buyshoponly.com
 +.buzzardflapper.com
 +.buzzav.com
@@ -5068,6 +5089,7 @@ login.microsoftonline.com
 +.calgoncarbon.com
 +.calgonit.com
 +.calibre-ebook.com
++.calicolabs.com
 +.callabitch.org
 +.callbackkiller.com
 +.callersbane.com
@@ -5401,6 +5423,7 @@ login.microsoftonline.com
 +.cciesecuritylabs.com
 +.ccievoicelabs.com
 +.ccl.ac.uk
++.ccleaner.com
 +.cclrc.ac.uk
 +.ccm.ac.uk
 +.ccms.ac.uk
@@ -5717,7 +5740,6 @@ login.microsoftonline.com
 +.chid.com.mm
 +.chigroup.ac.uk
 +.chihair-straightener.com
-+.chii.in
 +.chikiporn.com
 +.chikubank.co.jp
 +.chilbolton.ac.uk
@@ -5881,6 +5903,7 @@ login.microsoftonline.com
 +.cityplym.ac.uk
 +.citysun.ac.uk
 +.citytourgirls.com
++.cityu.hk
 +.cityuniversitybirmingham.ac.uk
 +.ciu.ac.uk
 +.civil3d.com
@@ -5913,6 +5936,7 @@ login.microsoftonline.com
 +.clau.de
 +.claude.ai
 +.claudemcpclient.com
++.claudemcpcontent.com
 +.claudeusercontent.com
 +.clawhub.ai
 +.clc-london.ac.uk
@@ -6089,6 +6113,7 @@ login.microsoftonline.com
 +.coincarp.com
 +.coincheck.com
 +.coindesk.com
++.coingate.com
 +.coinglass.com
 +.coinmap.org
 +.coinone.co.kr
@@ -6531,6 +6556,7 @@ login.microsoftonline.com
 +.cue.ac.uk
 +.cuebic.biz
 +.cuffiesaldi.com
++.cuhk.hk
 +.cuhop.ac.uk
 +.cuinc.oen.tw
 +.cuinc.tw
@@ -6783,6 +6809,10 @@ login.microsoftonline.com
 +.ddi.ac.uk
 +.dditsadn.com
 +.de-montfort.ac.uk
++.de-rt.com
++.de-rt.org
++.de-rtnews.com
++.de-rtnews.net
 +.de1lib.org
 +.deadspacegame.com
 +.deafandcreative.ac.uk
@@ -7031,6 +7061,9 @@ login.microsoftonline.com
 +.derbyshire.ac.uk
 +.deribit.com
 +.derpibooru.org
++.dert.online
++.dert.site
++.dert.tech
 +.derweb.ac.uk
 +.derwen.ac.uk
 +.derwencollege.ac.uk
@@ -7058,6 +7091,7 @@ login.microsoftonline.com
 +.destinationbim.com
 +.detaliczny.com
 +.detentiongirls.com
++.detodosparatodos.org
 +.dettol-prize.com
 +.dettol.at
 +.dettol.be
@@ -7105,7 +7139,6 @@ login.microsoftonline.com
 +.devcon.org
 +.developebp.ac.uk
 +.developer-advisor.com
-+.developer.allizom.org
 +.developria.com
 +.deviantclip.com
 +.device-manager.us
@@ -7284,8 +7317,12 @@ login.microsoftonline.com
 +.discountbeatsstore.com
 +.discountedporn.com
 +.discountporn.club
++.discourse-cdn.com
++.discourse.group
++.discourse.org
 +.discover.ac.uk
 +.discovereconomics.ac.uk
++.discovershiretoko.org
 +.discovery.ac.uk
 +.discoveryinvestigations.ac.uk
 +.discoveryplus.com
@@ -7660,6 +7697,7 @@ login.microsoftonline.com
 +.drmario-world.com
 +.drnastran.com
 +.drns.ac.uk
++.drobbox.pro
 +.dropbox-dns.com
 +.dropbox.com
 +.dropbox.tech
@@ -7970,6 +8008,10 @@ login.microsoftonline.com
 +.ebahy.com
 +.ebalovo.com
 +.ebam.ac.uk
++.ebates.ca
++.ebates.kr
++.ebates.sg
++.ebatescanada.com
 +.ebay-authenticate.net
 +.ebay-confirm.com
 +.ebay-course.com
@@ -8157,6 +8199,7 @@ login.microsoftonline.com
 +.ebuyheadphones.com
 +.eca.ac.uk
 +.ecampus-leeds.ac.uk
++.ecbsn.com
 +.ecc.ac.uk
 +.ecchinohentai.ru
 +.ecci.ac.uk
@@ -8171,6 +8214,7 @@ login.microsoftonline.com
 +.eclipse.ac.uk
 +.eclipse.org
 +.eclw.ac.uk
++.ecmascript.org
 +.ecn.ac.uk
 +.ecoforme.jp
 +.economicfutures.ac.uk
@@ -8221,11 +8265,13 @@ login.microsoftonline.com
 +.edshare.ac.uk
 +.edtech.ac.uk
 +.edu-research.org
++.edu.hk
 +.edu.ir
 +.education-cadcam.com
 +.educationlondonconnect.ac.uk
 +.educationpartnershipne.ac.uk
 +.educationpartnershipnortheast.ac.uk
++.eduhk.hk
 +.eduplus.hk
 +.eduroam.ac.uk
 +.eduserv.ac.uk
@@ -8295,6 +8341,7 @@ login.microsoftonline.com
 +.electronicarts.fr
 +.electronicsignature.ru
 +.electronjs.org
++.elegantthemes.com
 +.element.io
 +.elementary.io
 +.elephantlist.com
@@ -8638,6 +8685,7 @@ login.microsoftonline.com
 +.erpe.ac.uk
 +.err.sh
 +.ertk.net
++.es-rt.com
 +.es-visiontimes.com
 +.esala.ac.uk
 +.esbeatsbydrebuy.com
@@ -8706,6 +8754,12 @@ login.microsoftonline.com
 +.esrcmanchesterfest.ac.uk
 +.esrcsocietytoday.ac.uk
 +.esri.com
++.esrt.online
++.esrt.press
++.esrt.site
++.esrt.space
++.esrt.tech
++.esrt.website
 +.essex.ac.uk
 +.essexacl.ac.uk
 +.estudio360.com.co
@@ -8826,6 +8880,7 @@ login.microsoftonline.com
 +.expresswifi.com
 +.exs8fkw0.xyz
 +.ext-twitch.tv
++.extendfirefox.com
 +.extensions4revit.com
 +.extensionworkshop.com
 +.extraasian.com
@@ -9262,6 +9317,7 @@ login.microsoftonline.com
 +.fasttext.cc
 +.fasttrackreadysupport.com
 +.fatstube.com
++.fatwallet.com
 +.fau11.com
 +.fault-analysis-group.ac.uk
 +.favebook.com
@@ -9399,6 +9455,7 @@ login.microsoftonline.com
 +.ficador.com
 +.ficbook.net
 +.ficeboock.com
++.ficgs.com
 +.ficm.ac.uk
 +.ficmania.com
 +.fictionmania.tv
@@ -9410,6 +9467,7 @@ login.microsoftonline.com
 +.fightforux.com
 +.figma.com
 +.filesmonster.vip
++.filezilla-project.org
 +.filipino-music.net
 +.filmandsound.ac.uk
 +.filme2.xxx
@@ -9508,6 +9566,8 @@ login.microsoftonline.com
 +.firech.at
 +.fireemblemawakening.com
 +.fireflyresearch.ac.uk
++.firefox.hu
++.firefoxtweetmachine.com
 +.firefoxusercontent.com
 +.fireservicecollege.ac.uk
 +.fireside.fm
@@ -9747,6 +9807,8 @@ login.microsoftonline.com
 +.foxhq.com
 +.foxinc.com
 +.foxkansas.com
++.foxkeh.com
++.foxkeh.jp
 +.foxla.com
 +.foxla.tv
 +.foxlexington.com
@@ -9880,6 +9942,7 @@ login.microsoftonline.com
 +.freeadultgames.tv
 +.freeanimalporn.net
 +.freearabsexx.com
++.freeassange.tech
 +.freeav.tv
 +.freeb.com
 +.freebasics.com
@@ -9893,6 +9956,8 @@ login.microsoftonline.com
 +.freecartoons.biz
 +.freechatnow.com
 +.freecodecamp.org
++.freede.tech
++.freedert.online
 +.freedirecttvspecial.com
 +.freedomplatform.tv
 +.freefacebook.com
@@ -10147,7 +10212,9 @@ login.microsoftonline.com
 +.gamesfuckgirls.com
 +.gamesofdesire.com
 +.gamespark.jp
++.gamesplanet.com
 +.gamesstack.com
++.gametap.com
 +.gameuxmasterguide.com
 +.gaming-notebooks.com
 +.gandhara.ru
@@ -10184,6 +10251,7 @@ login.microsoftonline.com
 +.gateway.ac.uk
 +.gateway.dev
 +.gateway.pinata.cloud
++.gatewaytorussia.ru
 +.gauleporno.xxx
 +.gay.bingo
 +.gay0day.com
@@ -10226,6 +10294,7 @@ login.microsoftonline.com
 +.gaythebest.com
 +.gaytopcams.com
 +.gayvl.net
++.gazetarussa.com.br
 +.gazounabi.com
 +.gazprombank.com
 +.gazprombank.investments
@@ -10361,9 +10430,12 @@ login.microsoftonline.com
 +.getfappy.com
 +.getfedora.org
 +.getfiddler.com
++.getfirebug.com
 +.getfoxyoutside.org
 +.getiton.com
 +.getnews.jp
++.getpaint.net
++.getpersonas.com
 +.getpocket.com
 +.getporn.tv
 +.getprintersupports.com
@@ -10395,6 +10467,7 @@ login.microsoftonline.com
 +.gfacecbook.com
 +.gfarchive.com
 +.gfashion.com
++.gfiber.com
 +.gfjizz.com
 +.gfleaks.com
 +.gfotolia.com
@@ -10405,6 +10478,7 @@ login.microsoftonline.com
 +.gfrevenge.com
 +.gfycat.com
 +.gfysex.com
++.gg.deals
 +.ggdiao.com
 +.ggjav.com
 +.ggoogle.com
@@ -10414,6 +10488,7 @@ login.microsoftonline.com
 +.ggsrv.com
 +.gh.io
 +.ghbi.ir
++.ghe.com
 +.ghettotube.com
 +.ghil.ac.uk
 +.ghostarchive.org
@@ -10471,6 +10546,7 @@ login.microsoftonline.com
 +.girlsxxx.net
 +.gisplanning.com
 +.git-scm.com
++.gitgud.io
 +.github.ai
 +.github.blog
 +.github.com
@@ -11014,6 +11090,7 @@ login.microsoftonline.com
 +.gowercollegeswansea.ac.uk
 +.gpb.ru
 +.gpkss.ac.uk
++.gpstatic.com
 +.gpstheseries.com
 +.gpucomputing.ac.uk
 +.gputechconf.co.kr
@@ -11085,6 +11162,7 @@ login.microsoftonline.com
 +.greatgame.asia
 +.greatretroporn.com
 +.greatwesternresearch.ac.uk
++.green-box-tv.com
 +.greenbankcollege.ac.uk
 +.greenbuildingstudio.com
 +.greenend.org.uk
@@ -11176,6 +11254,7 @@ login.microsoftonline.com
 +.gvt7.com
 +.gvt9.com
 +.gw-partnership.ac.uk
++.gw2ru.com
 +.gw4-cat.ac.uk
 +.gw4.ac.uk
 +.gw4biomed.ac.uk
@@ -11200,6 +11279,7 @@ login.microsoftonline.com
 +.habr.com
 +.habrastorage.org
 +.hace.ac.uk
++.hackasaurus.org
 +.hackday.com.au
 +.hackerfacebook.com
 +.hackerguardian.com
@@ -11767,7 +11847,6 @@ login.microsoftonline.com
 +.hibiki-cast.jp
 +.hiddenhistorieswwi.ac.uk
 +.hiddenvoyeurspy.com
-+.hiddify.com
 +.hidefporn.ws
 +.hidive.com
 +.hifacebook.info
@@ -11817,6 +11896,7 @@ login.microsoftonline.com
 +.hiswifepussy.com
 +.hitbdsm.com
 +.hitxhot.com
++.hivepress.io
 +.hjb246.top
 +.hjb7e9.top
 +.hk.file.myqcloud.com
@@ -11827,6 +11907,7 @@ login.microsoftonline.com
 +.hkbn.com.hk
 +.hkbn.net
 +.hkbnes.net
++.hkbu.hk
 +.hkcircleapp.com
 +.hkcitizenmedia.com
 +.hkcsl.com
@@ -11846,6 +11927,7 @@ login.microsoftonline.com
 +.hkteducation.com
 +.hktpremier.com
 +.hktshop.com
++.hkust.hk
 +.hkvets.ac.uk
 +.hlbelygl.com
 +.hlcollege.ac.uk
@@ -12371,6 +12453,7 @@ login.microsoftonline.com
 +.hyp.ac.uk
 +.hyper.is
 +.hyperdreams.com
++.hyperliquid.xyz
 +.hyperscan.io
 +.hypnohub.net
 +.hypnoporn.net
@@ -12951,6 +13034,7 @@ login.microsoftonline.com
 +.innovation.ac.uk
 +.innovations-i.com
 +.innovations.ac.uk
++.inosmi.ru
 +.inplat.ru
 +.inporn.com
 +.inquirer.net
@@ -13240,6 +13324,7 @@ login.microsoftonline.com
 +.intercom.io
 +.intercomassets.com
 +.intercomcdn.com
++.interforest.org
 +.international-house-london.ac.uk
 +.international-union-crystallography.ac.uk
 +.international.ac.uk
@@ -13478,6 +13563,7 @@ login.microsoftonline.com
 +.islington-acl.ac.uk
 +.ism.ac.uk
 +.ismg.ac.uk
++.isomorphiclabs.com
 +.ispan.ac.uk
 +.iss138.com
 +.issitedownrightnow.com
@@ -13505,6 +13591,7 @@ login.microsoftonline.com
 +.itfromtheinside.com
 +.ithaisex.com
 +.itirex.ru
++.itisatrap.org
 +.itlearningspace-scot.ac.uk
 +.itmedia.co.jp
 +.itnel.com
@@ -13829,6 +13916,7 @@ login.microsoftonline.com
 +.jimeng22.com
 +.jinmantiankong.com
 +.jinnaju.com
++.jinrieluosi.cn
 +.jinsilubanzhao.com
 +.jira-tcsbank.ru
 +.jira.com
@@ -13868,6 +13956,7 @@ login.microsoftonline.com
 +.jiuse904.com
 +.jiuse905.com
 +.jiuzhouyihuo.com
++.jivara.global
 +.jivo.chat
 +.jivo.ru
 +.jivochat.co.in
@@ -14109,6 +14198,7 @@ login.microsoftonline.com
 +.kangye.org
 +.kanporno.com
 +.kantan.game
++.kanzlerdaddy.ru
 +.kaob3.xyz
 +.karabako-gmo.com
 +.karafarinbank.ir
@@ -14220,6 +14310,7 @@ login.microsoftonline.com
 +.kgslb.com
 +.kgv.ac.uk
 +.khanacademy.org
++.khangar.net
 +.khotruyentranhx.com
 +.kiad.ac.uk
 +.kichikuou.com
@@ -14297,6 +14388,7 @@ login.microsoftonline.com
 +.kingston.ac.uk
 +.kingstonalumni.ac.uk
 +.kingsway.ac.uk
++.kinguin.net
 +.kinguno.xyz
 +.kinkbook.com
 +.kinki.co.jp
@@ -14406,6 +14498,7 @@ login.microsoftonline.com
 +.kssacademy.ac.uk
 +.kssdeanery.ac.uk
 +.ksyp10.com
++.ktech.team
 +.ktvu.com
 +.ku77.xyz
 +.kuaimao-app.com
@@ -14490,6 +14583,7 @@ login.microsoftonline.com
 +.languagesmythsfinds.ac.uk
 +.languagesresearch.ac.uk
 +.languagessoutheast.ac.uk
++.languagetool.org
 +.lanik.us
 +.lanmdh.net
 +.lanniser-ylo.shop
@@ -14592,6 +14686,7 @@ login.microsoftonline.com
 +.learnharrow.ac.uk
 +.learnhigher.ac.uk
 +.learningbites.ac.uk
++.learningfreedomandtheweb.org
 +.learninglink.ac.uk
 +.learningmathsonline.ac.uk
 +.learningonscreen.ac.uk
@@ -14753,6 +14848,8 @@ login.microsoftonline.com
 +.lifewire.com
 +.liftapp.ac.uk
 +.lightbridge.com
++.lighter.exchange
++.lighter.xyz
 +.lighthouselearningtrust.ac.uk
 +.lightxxxtube.com
 +.lihe.ac.uk
@@ -14878,9 +14975,11 @@ login.microsoftonline.com
 +.livinglegacies1914-18.ac.uk
 +.livingwithmachines.ac.uk
 +.livingyourambition.com
++.livinno.org
 +.livjm.ac.uk
 +.livrariart.com.br
 +.lizardporn.com
++.lizardwrangler.com
 +.lizol.co.in
 +.ljmu.ac.uk
 +.lkl.ac.uk
@@ -15709,9 +15808,7 @@ login.microsoftonline.com
 +.mdbankpublic.com
 +.mdhcdn.com
 +.mdialog.com
-+.mdn.allizom.net
 +.mdn.dev
-+.mdn.mozit.cloud
 +.mdnkids.com
 +.mdnplay.dev
 +.mdnyalp.dev
@@ -15734,6 +15831,7 @@ login.microsoftonline.com
 +.meb.gov.mm
 +.mebank.ir
 +.meccontroller.com
++.mecha-mozilla.org
 +.meddyliwchamgymru.ac.uk
 +.mede-innovation.ac.uk
 +.medev.ac.uk
@@ -16251,7 +16349,6 @@ login.microsoftonline.com
 +.minim.ac.uk
 +.minimarkham.ca
 +.minimarkham.com
-+.minimax.io
 +.minimoncton.ca
 +.minimoncton.com
 +.minimontrealcentre.ca
@@ -16622,6 +16719,7 @@ login.microsoftonline.com
 +.motionpictureser.com
 +.moto.com
 +.motolia.com
++.motopress.com
 +.motorola.ca
 +.motorola.cl
 +.motorola.co
@@ -16676,11 +16774,32 @@ login.microsoftonline.com
 +.moxing.mobi
 +.moxing.news
 +.moystoys.com
++.mozaws.net
 +.mozgcp.net
++.mozilla-europe.org
++.mozilla-hispano.org
++.mozilla-mexico.org
 +.mozilla.com
 +.mozilla.community
++.mozilla.cz
++.mozilla.de
++.mozilla.jp
++.mozilla.lt
 +.mozilla.net
++.mozilla.org.uk
++.mozilla.pe
++.mozilla.pt
++.mozilla.ro
++.mozillabd.org
++.mozillademos.org
++.mozillafactory.org
 +.mozillafoundation.org
++.mozillaignite.org
++.mozillalabs.com
++.mozillaquebec.org
++.mozillazine.jp
++.mozillians.org
++.mozit.cloud
 +.mp.world
 +.mpa-mpp.ac.uk
 +.mpa-uk.ac.uk
@@ -16760,6 +16879,7 @@ login.microsoftonline.com
 +.msturing.org
 +.msudalosti.com
 +.msunlimitedcloudsummit.com
++.msys2.org
 +.mt.lv
 +.mt0011.site
 +.mtao.fun
@@ -17491,7 +17611,9 @@ login.microsoftonline.com
 +.nexo.io
 +.nexon.co.jp
 +.nexon.io
++.nexon.net
 +.nexoncdn.co.kr
++.nexongames.co.kr
 +.nexpart.com
 +.nexpart.tv
 +.next-institute.ac.uk
@@ -17556,7 +17678,9 @@ login.microsoftonline.com
 +.nhentaihaven.org
 +.nheos.com
 +.nhi.gov.tw
++.nhk.jp
 +.nhk.or.jp
++.nhkworld.jp
 +.nhm.ac.uk
 +.niab.ac.uk
 +.niace.ac.uk
@@ -17898,7 +18022,10 @@ login.microsoftonline.com
 +.northumbria.ac.uk
 +.norton.com
 +.norwichresearchpark.ac.uk
++.noticias-rt.com
++.notimundo.press
 +.notion-static.com
++.notion-status.com
 +.notion.com
 +.notion.new
 +.notion.site
@@ -18222,6 +18349,7 @@ login.microsoftonline.com
 +.nxta.org
 +.nxtdig.com.hk
 +.nxtdig.com.tw
++.nxtv.jp
 +.nyaa.net
 +.nyahentai.re
 +.nyansa.com
@@ -18241,6 +18369,7 @@ login.microsoftonline.com
 +.o3team.ru
 +.oaa-anaes.ac.uk
 +.oaistatic.com
++.oaistatsig.com
 +.oaiusercontent.com
 +.oakhill.ac.uk
 +.oaklands.ac.uk
@@ -18346,6 +18475,7 @@ login.microsoftonline.com
 +.okko.tv
 +.okkoapi.tv
 +.okl.lt
++.oknovrossiu.ru
 +.oktech.ru
 +.okx-dns.com
 +.okx-dns1.com
@@ -18421,6 +18551,7 @@ login.microsoftonline.com
 +.onekey.so
 +.onekeycn.com
 +.oneme.ru
++.onemozilla.org
 +.onepornlist.com
 +.onesiterip.com
 +.onestore.ms
@@ -18478,6 +18609,7 @@ login.microsoftonline.com
 +.ootbstudio.co.kr
 +.op.gg
 +.op7979.com
++.opac-project.eu
 +.opdems.ac.uk
 +.open.ac.uk
 +.openamt.com
@@ -18521,6 +18653,7 @@ login.microsoftonline.com
 +.opensuse.org
 +.opentgc.com
 +.openthread.io
++.opentimetable.jp
 +.opentranslatorstothings.org
 +.openuniversity.ac.uk
 +.openurl.ac.uk
@@ -18749,6 +18882,7 @@ login.microsoftonline.com
 +.paily.org
 +.painfulpussytortures.com
 +.painnovel.com
++.paint.net
 +.paipal.com
 +.paipancon.com
 +.paisapay.cc
@@ -19384,6 +19518,7 @@ login.microsoftonline.com
 +.pml.ac.uk
 +.pms.ac.uk
 +.po18.tw
++.pobeda.page
 +.pobl-content.com
 +.pochtabank.ru
 +.pocketbiketrader.com
@@ -19434,6 +19569,7 @@ login.microsoftonline.com
 +.poly-of-wales.ac.uk
 +.polygon.com
 +.polymerproject.org
++.polyu.hk
 +.poms.ac.uk
 +.pone.ac.uk
 +.pontypridd.ac.uk
@@ -19445,6 +19581,7 @@ login.microsoftonline.com
 +.poopee-puke.com
 +.poopeegirls.com
 +.popcap.com
++.popcornjs.org
 +.popjav.tv
 +.popmechanic.io
 +.popmechanic.ru
@@ -19887,6 +20024,7 @@ login.microsoftonline.com
 +.premiumbooty.com
 +.premiumfs.de
 +.premiumhd.net
++.premiumlive.site
 +.premiumpornlist.com
 +.premobay.com
 +.prepsure.com
@@ -19894,6 +20032,7 @@ login.microsoftonline.com
 +.prescribingsafetyassessment.ac.uk
 +.presidencylondoncollege.ac.uk
 +.press.vin
++.pressria.ru
 +.preston.ac.uk
 +.prestoncoll.ac.uk
 +.pretty-ass.xyz
@@ -20057,6 +20196,7 @@ login.microsoftonline.com
 +.publicservices.ac.uk
 +.publicsexhub.com
 +.publicspace.ac.uk
++.publicsuffix.org
 +.publishproxy.com
 +.pubmatic.co.jp
 +.pubu.tw
@@ -20300,6 +20440,7 @@ login.microsoftonline.com
 +.radiomango.fm
 +.radiomarsho.com
 +.radioresearch.ac.uk
++.radiosputnik.ru
 +.radiosvoboda.org
 +.radiotavisupleba.ge
 +.radiyoyacuvoa.com
@@ -20314,7 +20455,10 @@ login.microsoftonline.com
 +.rakuten.ca
 +.rakuten.com
 +.rakuten.ne.jp
++.rakuten.tv
 +.rakuten.tw
++.rakutenadvertising.com
++.rakutengiftcards.ca
 +.rakuya.com.tw
 +.ram.ac.uk
 +.randd.ac.uk
@@ -20392,6 +20536,7 @@ login.microsoftonline.com
 +.rbsl.ac.uk
 +.rbslondon.ac.uk
 +.rbspeakup.com
++.rbth.com
 +.rbx.com
 +.rbxcdn.com
 +.rbxinfra.net
@@ -20708,6 +20853,7 @@ login.microsoftonline.com
 +.rhyw.me
 +.rhyw31.life
 +.ri.ac.uk
++.ria.ru
 +.ricefever.com
 +.richardtaunton.ac.uk
 +.richardtaunton6thformcollege.ac.uk
@@ -20827,6 +20973,7 @@ login.microsoftonline.com
 +.rolls-roycemotorcarsna.com
 +.roloflix.com
 +.roloxxx.com
++.romanovs100.com
 +.romanrepublic.ac.uk
 +.romansocietyrac.ac.uk
 +.romantic-sex-video.com
@@ -20845,6 +20992,7 @@ login.microsoftonline.com
 +.rosetta.ac.uk
 +.roshy.tv
 +.roslin.ac.uk
++.rossiyasegodnya.com
 +.rostaxi.org
 +.rostelecom.ru
 +.rothamsted.ac.uk
@@ -20886,6 +21034,7 @@ login.microsoftonline.com
 +.rprimelab.com
 +.rps.ac.uk
 +.rqbank.ir
++.rrcbsn.com
 +.rrl28.buzz
 +.rrs1.xyz
 +.rrtis.com
@@ -20927,10 +21076,59 @@ login.microsoftonline.com
 +.rsp.ac.uk
 +.rspao.com
 +.rstatic.net
++.rt-school.online
 +.rt.com
++.rt.rs
 +.rt.ru
++.rtarabic.com
++.rtarabic.net
++.rtarabic.org
++.rtarabic.ru
 +.rtbcdn.ru
++.rtbrasil.com
++.rtbrasil.info
++.rtde.agency
++.rtde.expert
++.rtde.express
++.rtde.info
++.rtde.life
++.rtde.live
++.rtde.me
++.rtde.media
++.rtde.online
++.rtde.org
++.rtde.press
++.rtde.site
++.rtde.team
++.rtde.tech
++.rtde.website
++.rtde.world
++.rtde.xyz
++.rtdefree.info
++.rtdefree.me
++.rtdefree.online
++.rtdefree.tech
++.rtdoc.tv
++.rtdocumentary.online
++.rteam.dev
++.rteam.tech
++.rtenafrique.tv
++.rtenfrancais.tv
++.rtenfrance.tv
++.rtespanol.com
++.rtfestival.ru
++.rtfrance.tv
 +.rtings.com
++.rtnewsde.com
++.rtnewsde.online
++.rtnewsde.pro
++.rtnewsde.site
++.rtnewsde.tech
++.rtnewsru.com
++.rtrunews.com
++.rttv.com
++.rttv.ru
++.rtxv.ru
 +.ru-moscow-1.myhuaweicloud.com
 +.ru.ccb.com
 +.rua-project.ac.uk
@@ -20956,6 +21154,7 @@ login.microsoftonline.com
 +.rumporn.com
 +.run.app
 +.rundf665.cyou
++.runewsrt.com
 +.runnike.com
 +.runningnike.com
 +.runporn.com
@@ -20963,6 +21162,10 @@ login.microsoftonline.com
 +.runshawcollege.ac.uk
 +.runwayescorts.com
 +.rupress.org
++.ruptly.agency
++.ruptly.tv
++.ruptly.video
++.rurtnews.com
 +.ruru.ac.uk
 +.rusfinance.ru
 +.rusfinancebank.ru
@@ -20971,8 +21174,15 @@ login.microsoftonline.com
 +.ruskin.ac.uk
 +.russell-group.ac.uk
 +.russellgroup.ac.uk
++.russiabeyond.com
++.russiaislove.com
 +.russiandesigncup.ru
 +.russianrape.org
++.russiatoday.com
++.russiatoday.net
++.russiatoday.ru
++.russiatoday.tv
++.russieactuelle.fr
 +.russoutdoor.ru
 +.rust-lang.org
 +.rustore.ru
@@ -21849,6 +22059,7 @@ login.microsoftonline.com
 +.shootershill.ac.uk
 +.shop-headphones.net
 +.shop-pro.jp
++.shop-rt.com
 +.shop.app
 +.shopadidas.ca
 +.shopadidas.com
@@ -22089,6 +22300,7 @@ login.microsoftonline.com
 +.slandr.net
 +.slashdot.org
 +.slavbank.ru
++.slavicstar.com
 +.slc.ac.uk
 +.slc.tl
 +.slcollege.ac.uk
@@ -22177,6 +22389,7 @@ login.microsoftonline.com
 +.smutty.com
 +.smuttymoms.com
 +.smyw.org
++.sn-esp.site
 +.snap-dev.net
 +.snap-telemetry.io
 +.snap.com
@@ -22541,6 +22754,10 @@ login.microsoftonline.com
 +.spsrn.ac.uk
 +.sptvbroadcast.com
 +.spurgeons.ac.uk
++.sputnikglobe.com
++.sputnikimages.com
++.sputnikmediabank.com
++.sputniknews.com
 +.spyjinx.com
 +.sqhwesternconsortium.ac.uk
 +.sqlite.org
@@ -23105,6 +23322,7 @@ login.microsoftonline.com
 +.sweetsinner.com
 +.swegold.com
 +.sweltec.ac.uk
++.swentr.site
 +.swift.ac.uk
 +.swift.org
 +.swiftbank.info
@@ -23836,6 +24054,7 @@ login.microsoftonline.com
 +.toget.com.tw
 +.tohobank.co.jp
 +.tohoku-bank.co.jp
++.tok.media
 +.tokyo-porn-tube.com
 +.tokyo-sports.co.jp
 +.tokyo-tosho.net
@@ -23851,6 +24070,7 @@ login.microsoftonline.com
 +.tomovie.net
 +.tomsguide.com
 +.ton.org
++.toncenter.com
 +.tonec.com
 +.tonicmovies.com
 +.toolforge.org
@@ -24490,6 +24710,7 @@ login.microsoftonline.com
 +.ukpmcplus.ac.uk
 +.ukpubmedcentral.ac.uk
 +.ukqcd.ac.uk
++.ukraina.ru
 +.ukresearchandinnovation.ac.uk
 +.ukrheeo.ac.uk
 +.ukri.ac.uk
@@ -24540,6 +24761,9 @@ login.microsoftonline.com
 +.underpinningexcellenceinhe.ac.uk
 +.understanding-inequalities.ac.uk
 +.understandingsociety.ac.uk
++.unext-info.jp
++.unext.co.jp
++.unext.jp
 +.ungrounded.net
 +.uni-east.ac.uk
 +.unialliance.ac.uk
@@ -25058,6 +25282,7 @@ login.microsoftonline.com
 +.viewpointsfromfacebook.com
 +.vigorgame.com
 +.viju.ru
++.viki.com
 +.vikiporn.com
 +.vilavpn.xyz
 +.vilavpn1.xyz
@@ -25716,6 +25941,7 @@ login.microsoftonline.com
 +.watchersweb.com
 +.watchespn.com
 +.watchindianporn.net
++.watchingthehawks.com
 +.watchjavonline.com
 +.watchmyexgf.net
 +.watchmygf.me
@@ -25813,6 +26039,7 @@ login.microsoftonline.com
 +.webkit.org
 +.webkitgtk.org
 +.weblate.org
++.webmademovies.org
 +.webmoneyinfo.com
 +.webnovel.com
 +.webobjects.co.uk
@@ -26081,6 +26308,7 @@ login.microsoftonline.com
 +.windsurf.build
 +.windsurf.com
 +.windy.com
++.wing.com
 +.winhec.com
 +.winhec.net
 +.wink.am
@@ -26186,6 +26414,7 @@ login.microsoftonline.com
 +.woolitecarpet.com
 +.worc.ac.uk
 +.worcester.ac.uk
++.wordcamp.org
 +.wordpress.net
 +.wordpress.org
 +.wordpress.tv
@@ -26201,6 +26430,7 @@ login.microsoftonline.com
 +.workstations.tv
 +.world3d.biz
 +.worldcoinpay.com
++.worldcuprussia.com
 +.worldcurrencycard.co.za
 +.worldemojiawards.com
 +.worldemojiday.com
@@ -26229,6 +26459,7 @@ login.microsoftonline.com
 +.wowyoungporn.com
 +.wp-themes.com
 +.wpewebkit.org
++.wpmailsmtp.com
 +.wpvip.com
 +.wqe.ac.uk
 +.wqeic.ac.uk
@@ -26422,8 +26653,11 @@ login.microsoftonline.com
 +.xhamster2.com
 +.xhamster3.com
 +.xhamsterlive.com
++.xhnews.live
 +.xhot.pro
++.xhpingcdn.com
 +.xhpjc6-cdn-settings.appsflyersdk.com
++.xhreal5.com
 +.xhub.tv
 +.xiangrikui-app.com
 +.xianir.xyz
@@ -26515,6 +26749,7 @@ login.microsoftonline.com
 +.xn--9trs65b.com
 +.xn--av-o44ep1d.com
 +.xn--b1aechhj6bof8g5a.site
++.xn--c1acbl2abdlkab1og.xn--p1ai
 +.xn--cck4d8b3009a.com
 +.xn--colegsirgr-c5a.ac.uk
 +.xn--d1abkf4ap.fun
@@ -26523,8 +26758,14 @@ login.microsoftonline.com
 +.xn--d4ty0ojsqzfd.com
 +.xn--e1adjldbbpv.xn--90ais
 +.xn--e1aigb.xn--p1ai
++.xn--fiqs8s1bxp3anr7a.hk
++.xn--fiqs8s1bxp3anr7a.xn--j6w193g
++.xn--fiqs8s1byzqyvl.hk
++.xn--fiqs8s1byzqyvl.xn--j6w193g
 +.xn--fiqs8sxootzz.xn--hxt814e
 +.xn--flw351e.com
++.xn--gdt08a.hk
++.xn--gdt08a.xn--j6w193g
 +.xn--ggle-55da.com
 +.xn--gmq348bujlxrb.com
 +.xn--gmq92kd2rm1kx34a.com
@@ -26542,7 +26783,19 @@ login.microsoftonline.com
 +.xn--m1abbbgjah.lol
 +.xn--mts47c3w9b1qr.net
 +.xn--mtswd61ejxq.com
++.xn--mxtq18a.hk
++.xn--mxtq18a.xn--j6w193g
 +.xn--pearsonenespaol-brb.com
++.xn--pssu7ci2j23mp9ny48b.hk
++.xn--pssu7ci2j23mp9ny48b.xn--j6w193g
++.xn--pssu7cv61af1tcs59bnvd.hk
++.xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
++.xn--pssu7cv61af44b.hk
++.xn--pssu7cv61af44b.xn--j6w193g
++.xn--pssu7cv61ahw8aq79bztd.hk
++.xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
++.xn--pssu7cv61ahwcb1p2yk.hk
++.xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
 +.xn--q41am8x.com
 +.xn--qhrx81fxh2a.xn--55qx5d.hk
 +.xn--qoq462m.com
@@ -26553,7 +26806,13 @@ login.microsoftonline.com
 +.xn--tkry91n.com
 +.xn--ubt498knmf.com
 +.xn--uis17aj9kmuf.com
++.xn--uis44a.xn--j6w193g
 +.xn--urs05q.jp
++.xn--wcv22d.hk
++.xn--wcv22d.xn--j6w193g
++.xn--wcvs22d.xn--j6w193g
++.xn--wcvs22d1m.hk
++.xn--wcvs22d1m.xn--j6w193g
 +.xn--x-qeu1ji09tzlg.biz
 +.xn--x-qeu1ji09tzlg.net
 +.xn--xsq421m.com
@@ -27533,6 +27792,7 @@ login.microsoftonline.com
 +.ziporn.com
 +.ziraatbank.ru
 +.zishy.com
++.zklighter.elliot.ai
 +.zlib.life
 +.zlibcdn.com
 +.zlibcdn2.com
@@ -28046,6 +28306,7 @@ login.microsoftonline.com
 +.arunachalforests.gov.in
 +.arvanstorage.ir
 +.arweave.org
++.as.mr
 +.asacp.org
 +.asdfg.jp
 +.asg.to
@@ -28144,6 +28405,7 @@ login.microsoftonline.com
 +.bangdream.space
 +.bangkokpost.com
 +.bangumi.moe
++.bangumi.tv
 +.bangyoulater.com
 +.bankmobilevibe.com
 +.bannednews.org
@@ -28227,6 +28489,7 @@ login.microsoftonline.com
 +.beyondfirewall.com
 +.bfnn.org
 +.bfsh.hk
++.bgm.tv
 +.bgme.me
 +.bgvpn.com
 +.bianlei.com
@@ -28600,6 +28863,7 @@ login.microsoftonline.com
 +.cherrysave.com
 +.chhongbi.org
 +.chicagoncmtv.com
++.chii.in
 +.china-mmm.net
 +.china-review.com.ua
 +.china-week.com
@@ -28766,7 +29030,6 @@ login.microsoftonline.com
 +.cn6.eu
 +.cna.com.tw
 +.cnabc.com
-+.cnbc.com
 +.cnbeta.com.tw
 +.cnd.org
 +.cnet.com
@@ -29763,6 +30026,7 @@ login.microsoftonline.com
 +.geekheart.info
 +.gekikame.com
 +.gelbooru.com
++.gencraft.com
 +.generated.photos
 +.geni.us
 +.genius.com
@@ -30086,6 +30350,7 @@ login.microsoftonline.com
 +.hicairo.com
 +.hiccears.com
 +.hidden-advent.org
++.hiddify.com
 +.hide.me
 +.hidecloud.com
 +.hidein.net
@@ -32762,6 +33027,7 @@ login.microsoftonline.com
 +.suroot.com
 +.surrenderat20.net
 +.suyangg.com
++.suyingtv.com
 +.svsfx.com
 +.swagbucks.com
 +.swapspace.co
@@ -33522,6 +33788,7 @@ login.microsoftonline.com
 +.vbstatic.co
 +.vcf-online.org
 +.vcfbuilder.org
++.veed.io
 +.vegasred.com
 +.velkaepocha.sk
 +.venbbs.com
@@ -33870,6 +34137,7 @@ login.microsoftonline.com
 +.woyaolian.org
 +.wozy.in
 +.wp.com
++.wplace.live
 +.wpoforum.com
 +.wqyd.org
 +.wrchina.org
